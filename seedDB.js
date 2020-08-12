@@ -3,10 +3,12 @@ const QBs = require('./routes/Positions/models/QB');
 const WRs = require('./routes/Positions/models/WR');
 const RBs = require('./routes/Positions/models/RB');
 const TEs = require('./routes/Positions/models/TE');
+const Rankings = require('./routes/Positions/models/Rankings');
 const QBseed = require('./QBseed.json');
 const WRseed = require('./WRseed.json');
 const RBseed = require('./RBseed.json');
 const TEseed = require('./TEseed.json');
+const Rankingseed = require('./Rankings.json');
 // const axios = require('axios');
 require('dotenv').config();
 
@@ -20,6 +22,8 @@ const seedFunc = async () => {
     console.log(`${RBdata.length} RB created`);
     const TEdata = await TEs.create(TEseed);
     console.log(`${TEdata.length} TE created`);
+    const Rankingdata = await Rankings.create(Rankingseed);
+    console.log(`${Rankingdata.length} Rankings created`);
     await mongoose.disconnect();
     console.log('MongoDB Disconnected');
     process.exit(0);

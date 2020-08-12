@@ -1,11 +1,24 @@
 const express = require('express');
 const router = express.Router();
+const Rankings = require('./models/Rankings')
 const QB = require('./models/QB')
 const RB = require('./models/RB')
 const WR = require('./models/WR')
 const TE = require('./models/TE')
 
 /* GET home page. */
+router.get('/Rankings', (req, res, next) => {
+  Rankings.find().then((rankings)=>{
+    if(rankings.length){
+    return res.status(200).json({ rankings})
+    }
+    return res.send('No Rankings Found')
+  }).catch((err)=>{
+    next(err);
+  })
+});
+
+
 router.get('/QB', (req, res, next) => {
   QB.find().then((qbs)=>{
     if(qbs.length){
@@ -47,7 +60,34 @@ router.get('/TE', (req, res, next) => {
   })
 });
 
-// router.get('/single-QB/:word', (req, res, next) => {
+
+router.get('/single/:id', (req, res) => {
+  Rankings.findById({ _id: req.params.id }).then((player) => {
+    return res.json(player);
+  });
+});
+router.get('/singleQB/:id', (req, res) => {
+  QB.findById({ _id: req.params.id }).then((player) => {
+    return res.json(player);
+  });
+});
+router.get('/singleRB/:id', (req, res) => {
+  RB.findById({ _id: req.params.id }).then((player) => {
+    return res.json(player);
+  });
+});
+router.get('/singleWR/:id', (req, res) => {
+  WR.findById({ _id: req.params.id }).then((player) => {
+    return res.json(player);
+  });
+});
+router.get('/singleTE/:id', (req, res) => {
+  TE.findById({ _id: req.params.id }).then((player) => {
+    return res.json(player);
+  });
+});
+
+// router.get('/single-QB/:id', (req, res, next) => {
 //   Word.findOne({word:req.params.word}).populate('comments').exec((err,word)=>{
 //     res.json({word})
 //   })
