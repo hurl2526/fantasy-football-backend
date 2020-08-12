@@ -87,6 +87,12 @@ router.get('/singleTE/:id', (req, res) => {
   });
 });
 
+router.get('/Team/:team', (req, res) => {
+  Rankings.find({ team: req.params.team }).then((players) => {
+    return res.json(players);
+  });
+});
+
 // router.get('/single-QB/:id', (req, res, next) => {
 //   Word.findOne({word:req.params.word}).populate('comments').exec((err,word)=>{
 //     res.json({word})
