@@ -10,7 +10,7 @@ const QBSchema = new mongoose.Schema({
   rushAtt:{type:String},
   rushYards:{type:String},
   rushTD:{type:String},
-  fumbles:{type:String},
+  position:{type:String},
   fantasyPoints:{type:String},
   displayName:{type:String},
   team:{type:String},

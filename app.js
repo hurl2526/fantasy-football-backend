@@ -8,6 +8,7 @@ const mongoose = require('mongoose');
 require('dotenv').config();
 
 const positionsRouter = require('./routes/Positions/positionRoutes');
+const blogRouter = require('./routes/blog');
 const indexRouter = require('./routes/index');
 const usersRouter = require('./routes/users');
 
@@ -34,6 +35,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/positions', positionsRouter);
+app.use('/blogs', blogRouter);
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 

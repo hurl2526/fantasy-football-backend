@@ -1,6 +1,6 @@
 [
   {
-  "playerId": "3596",
+  "playerId": "1",
   "completions": "315",
   "attempts": "485",
   "passingYards": "3634",
@@ -9,13 +9,13 @@
   "rushAtt": "142",
   "rushYards": "897",
   "rushTD": "6",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "369",
   "displayName": "Lamar Jackson",
   "team": "BAL"
   },
   {
-  "playerId": "3311",
+  "playerId": "2",
   "completions": "375",
   "attempts": "573",
   "passingYards": "4774",
@@ -24,13 +24,13 @@
   "rushAtt": "55",
   "rushYards": "296",
   "rushTD": "3",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "365",
   "displayName": "Patrick Mahomes",
   "team": "KC"
   },
   {
-  "playerId": "3036",
+  "playerId": "3",
   "completions": "379",
   "attempts": "576",
   "passingYards": "4654",
@@ -39,13 +39,13 @@
   "rushAtt": "54",
   "rushYards": "253",
   "rushTD": "3",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "311",
   "displayName": "Dak Prescott",
   "team": "DAL"
   },
   {
-  "playerId": "3360",
+  "playerId": "4",
   "completions": "357",
   "attempts": "534",
   "passingYards": "4141",
@@ -54,13 +54,13 @@
   "rushAtt": "80",
   "rushYards": "440",
   "rushTD": "5",
-  "fumbles": "4",
+  "position": "QB",
   "fantasyPoints": "306",
   "displayName": "Deshaun Watson",
   "team": "HOU"
   },
   {
-  "playerId": "3893",
+  "playerId": "5",
   "completions": "362",
   "attempts": "556",
   "passingYards": "4023",
@@ -69,13 +69,13 @@
   "rushAtt": "95",
   "rushYards": "512",
   "rushTD": "4",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "298",
   "displayName": "Kyler Murray",
   "team": "ARI"
   },
   {
-  "playerId": "3577",
+  "playerId": "6",
   "completions": "311",
   "attempts": "526",
   "passingYards": "3595",
@@ -84,13 +84,13 @@
   "rushAtt": "105",
   "rushYards": "551",
   "rushTD": "7",
-  "fumbles": "4",
+  "position": "QB",
   "fantasyPoints": "295",
   "displayName": "Josh Allen",
   "team": "BUF"
   },
   {
-  "playerId": "1847",
+  "playerId": "7",
   "completions": "330",
   "attempts": "505",
   "passingYards": "4034",
@@ -99,13 +99,13 @@
   "rushAtt": "71",
   "rushYards": "336",
   "rushTD": "1",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "295",
   "displayName": "Russell Wilson",
   "team": "SEA"
   },
   {
-  "playerId": "93",
+  "playerId": "8",
   "completions": "409",
   "attempts": "612",
   "passingYards": "4625",
@@ -114,13 +114,13 @@
   "rushAtt": "32",
   "rushYards": "130",
   "rushTD": "1",
-  "fumbles": "4",
+  "position": "QB",
   "fantasyPoints": "284",
   "displayName": "Matt Ryan",
   "team": "ATL"
   },
   {
-  "playerId": "13",
+  "playerId": "9",
   "completions": "364",
   "attempts": "580",
   "passingYards": "4579",
@@ -129,13 +129,13 @@
   "rushAtt": "17",
   "rushYards": "37",
   "rushTD": "1",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "281",
   "displayName": "Tom Brady",
   "team": "TB"
   },
   {
-  "playerId": "14",
+  "playerId": "10",
   "completions": "393",
   "attempts": "543",
   "passingYards": "4257",
@@ -144,13 +144,13 @@
   "rushAtt": "11",
   "rushYards": "15",
   "rushTD": "2",
-  "fumbles": "2",
+  "position": "QB",
   "fantasyPoints": "276",
   "displayName": "Drew Brees",
   "team": "NO"
   },
   {
-  "playerId": "3044",
+  "playerId": "11",
   "completions": "376",
   "attempts": "574",
   "passingYards": "4060",
@@ -159,13 +159,13 @@
   "rushAtt": "53",
   "rushYards": "203",
   "rushTD": "1",
-  "fumbles": "4",
+  "position": "QB",
   "fantasyPoints": "275",
   "displayName": "Carson Wentz",
   "team": "PHI"
   },
   {
-  "playerId": "87",
+  "playerId": "12",
   "completions": "343",
   "attempts": "550",
   "passingYards": "3973",
@@ -174,13 +174,13 @@
   "rushAtt": "50",
   "rushYards": "203",
   "rushTD": "1",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "269",
   "displayName": "Aaron Rodgers",
   "team": "GB"
   },
   {
-  "playerId": "3868",
+  "playerId": "13",
   "completions": "356",
   "attempts": "571",
   "passingYards": "3805",
@@ -189,13 +189,13 @@
   "rushAtt": "63",
   "rushYards": "343",
   "rushTD": "2",
-  "fumbles": "7",
+  "position": "QB",
   "fantasyPoints": "261",
   "displayName": "Daniel Jones",
   "team": "NYG"
   },
   {
-  "playerId": "3599",
+  "playerId": "14",
   "completions": "318",
   "attempts": "515",
   "passingYards": "3984",
@@ -204,13 +204,13 @@
   "rushAtt": "32",
   "rushYards": "150",
   "rushTD": "3",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "260",
   "displayName": "Baker Mayfield",
   "team": "CLE"
   },
   {
-  "playerId": "793",
+  "playerId": "15",
   "completions": "360",
   "attempts": "558",
   "passingYards": "4276",
@@ -219,13 +219,13 @@
   "rushAtt": "31",
   "rushYards": "111",
   "rushTD": "0",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "260",
   "displayName": "Matthew Stafford",
   "team": "DET"
   },
   {
-  "playerId": "1758",
+  "playerId": "16",
   "completions": "316",
   "attempts": "477",
   "passingYards": "3926",
@@ -234,13 +234,13 @@
   "rushAtt": "60",
   "rushYards": "240",
   "rushTD": "3",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "259",
   "displayName": "Ryan Tannehill",
   "team": "TEN"
   },
   {
-  "playerId": "4139",
+  "playerId": "17",
   "completions": "369",
   "attempts": "589",
   "passingYards": "4151",
@@ -249,13 +249,13 @@
   "rushAtt": "48",
   "rushYards": "247",
   "rushTD": "2",
-  "fumbles": "4",
+  "position": "QB",
   "fantasyPoints": "257",
   "displayName": "Joe Burrow",
   "team": "CIN"
   },
   {
-  "playerId": "3072",
+  "playerId": "18",
   "completions": "373",
   "attempts": "586",
   "passingYards": "4479",
@@ -264,13 +264,13 @@
   "rushAtt": "26",
   "rushYards": "66",
   "rushTD": "1",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "256",
   "displayName": "Jared Goff",
   "team": "LAR"
   },
   {
-  "playerId": "1805",
+  "playerId": "19",
   "completions": "364",
   "attempts": "542",
   "passingYards": "4095",
@@ -279,13 +279,13 @@
   "rushAtt": "33",
   "rushYards": "92",
   "rushTD": "1",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "253",
   "displayName": "Kirk Cousins",
   "team": "MIN"
   },
   {
-  "playerId": "1398",
+  "playerId": "20",
   "completions": "316",
   "attempts": "492",
   "passingYards": "3440",
@@ -294,7 +294,7 @@
   "rushAtt": "106",
   "rushYards": "395",
   "rushTD": "4",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "253",
   "displayName": "Cam Newton",
   "team": "NE"
@@ -309,7 +309,7 @@
   "rushAtt": "16",
   "rushYards": "67",
   "rushTD": "1",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "246",
   "displayName": "Ben Roethlisberger",
   "team": "PIT"
@@ -324,7 +324,7 @@
   "rushAtt": "33",
   "rushYards": "73",
   "rushTD": "1",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "244",
   "displayName": "Jimmy Garoppolo",
   "team": "SF"
@@ -339,7 +339,7 @@
   "rushAtt": "49",
   "rushYards": "256",
   "rushTD": "1",
-  "fumbles": "4",
+  "position": "QB",
   "fantasyPoints": "243",
   "displayName": "Gardner Minshew",
   "team": "JAC"
@@ -354,7 +354,7 @@
   "rushAtt": "7",
   "rushYards": "16",
   "rushTD": "0",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "239",
   "displayName": "Philip Rivers",
   "team": "IND"
@@ -369,7 +369,7 @@
   "rushAtt": "24",
   "rushYards": "70",
   "rushTD": "2",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "236",
   "displayName": "Derek Carr",
   "team": "LV"
@@ -384,7 +384,7 @@
   "rushAtt": "48",
   "rushYards": "209",
   "rushTD": "1",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "233",
   "displayName": "Drew Lock",
   "team": "DEN"
@@ -399,7 +399,7 @@
   "rushAtt": "27",
   "rushYards": "67",
   "rushTD": "1",
-  "fumbles": "2",
+  "position": "QB",
   "fantasyPoints": "223",
   "displayName": "Teddy Bridgewater",
   "team": "CAR"
@@ -414,7 +414,7 @@
   "rushAtt": "39",
   "rushYards": "127",
   "rushTD": "2",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "222",
   "displayName": "Sam Darnold",
   "team": "NYJ"
@@ -429,7 +429,7 @@
   "rushAtt": "31",
   "rushYards": "155",
   "rushTD": "1",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "199",
   "displayName": "Dwayne Haskins",
   "team": "WAS"
@@ -444,7 +444,7 @@
   "rushAtt": "9",
   "rushYards": "26",
   "rushTD": "1",
-  "fumbles": "3",
+  "position": "QB",
   "fantasyPoints": "184",
   "displayName": "Nick Foles",
   "team": "CHI"
@@ -459,7 +459,7 @@
   "rushAtt": "66",
   "rushYards": "215",
   "rushTD": "2",
-  "fumbles": "2",
+  "position": "QB",
   "fantasyPoints": "175",
   "displayName": "Tyrod Taylor",
   "team": "LAC"
@@ -474,7 +474,7 @@
   "rushAtt": "52",
   "rushYards": "204",
   "rushTD": "2",
-  "fumbles": "2",
+  "position": "QB",
   "fantasyPoints": "152",
   "displayName": "Ryan Fitzpatrick",
   "team": "MIA"
@@ -489,7 +489,7 @@
   "rushAtt": "16",
   "rushYards": "67",
   "rushTD": "0",
-  "fumbles": "2",
+  "position": "QB",
   "fantasyPoints": "112",
   "displayName": "Tua Tagovailoa",
   "team": "MIA"
@@ -504,7 +504,7 @@
   "rushAtt": "18",
   "rushYards": "84",
   "rushTD": "1",
-  "fumbles": "1",
+  "position": "QB",
   "fantasyPoints": "92",
   "displayName": "Justin Herbert",
   "team": "LAC"
@@ -519,7 +519,7 @@
   "rushAtt": "13",
   "rushYards": "69",
   "rushTD": "1",
-  "fumbles": "1",
+  "position": "QB",
   "fantasyPoints": "59",
   "displayName": "Mitchell Trubisky",
   "team": "CHI"
@@ -534,7 +534,7 @@
   "rushAtt": "7",
   "rushYards": "40",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "33",
   "displayName": "Marcus Mariota",
   "team": "LV"
@@ -549,7 +549,7 @@
   "rushAtt": "7",
   "rushYards": "21",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "29",
   "displayName": "Jarrett Stidham",
   "team": "NE"
@@ -564,7 +564,7 @@
   "rushAtt": "25",
   "rushYards": "127",
   "rushTD": "1",
-  "fumbles": "4",
+  "position": "QB",
   "fantasyPoints": "27",
   "displayName": "Jalen Hurts",
   "team": "PHI"
@@ -579,7 +579,7 @@
   "rushAtt": "8",
   "rushYards": "26",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "25",
   "displayName": "Alex Smith",
   "team": "WAS"
@@ -594,7 +594,7 @@
   "rushAtt": "29",
   "rushYards": "163",
   "rushTD": "1",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "25",
   "displayName": "Taysom Hill",
   "team": "NO"
@@ -609,7 +609,7 @@
   "rushAtt": "5",
   "rushYards": "20",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "23",
   "displayName": "Kyle Allen",
   "team": "WAS"
@@ -624,7 +624,7 @@
   "rushAtt": "4",
   "rushYards": "25",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "22",
   "displayName": "Phillip Walker",
   "team": "CAR"
@@ -639,7 +639,7 @@
   "rushAtt": "3",
   "rushYards": "28",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "20",
   "displayName": "Jameis Winston",
   "team": "NO"
@@ -654,7 +654,7 @@
   "rushAtt": "2",
   "rushYards": "8",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "19",
   "displayName": "Mason Rudolph",
   "team": "PIT"
@@ -669,7 +669,7 @@
   "rushAtt": "1",
   "rushYards": "8",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "18",
   "displayName": "Joe Flacco",
   "team": "NYJ"
@@ -684,7 +684,7 @@
   "rushAtt": "1",
   "rushYards": "4",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "18",
   "displayName": "Case Keenum",
   "team": "CLE"
@@ -699,7 +699,7 @@
   "rushAtt": "2",
   "rushYards": "15",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "16",
   "displayName": "Jacoby Brissett",
   "team": "IND"
@@ -714,7 +714,7 @@
   "rushAtt": "1",
   "rushYards": "28",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "15",
   "displayName": "John Wolford",
   "team": "LAR"
@@ -729,7 +729,7 @@
   "rushAtt": "3",
   "rushYards": "11",
   "rushTD": "0",
-  "fumbles": "1",
+  "position": "QB",
   "fantasyPoints": "14",
   "displayName": "Joshua Dobbs",
   "team": "JAC"
@@ -744,7 +744,7 @@
   "rushAtt": "3",
   "rushYards": "18",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "12",
   "displayName": "Brett Hundley",
   "team": "ARI"
@@ -759,7 +759,7 @@
   "rushAtt": "5",
   "rushYards": "32",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "12",
   "displayName": "Robert Griffin III",
   "team": "BAL"
@@ -774,7 +774,7 @@
   "rushAtt": "2",
   "rushYards": "11",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "12",
   "displayName": "Andy Dalton",
   "team": "DAL"
@@ -789,7 +789,7 @@
   "rushAtt": "2",
   "rushYards": "7",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "11",
   "displayName": "Jordan Love",
   "team": "GB"
@@ -804,7 +804,7 @@
   "rushAtt": "3",
   "rushYards": "6",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "11",
   "displayName": "Blaine Gabbert",
   "team": "TB"
@@ -819,7 +819,7 @@
   "rushAtt": "1",
   "rushYards": "4",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "10",
   "displayName": "Chad Henne",
   "team": "KC"
@@ -834,7 +834,7 @@
   "rushAtt": "2",
   "rushYards": "3",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "10",
   "displayName": "Matt Schaub",
   "team": "ATL"
@@ -849,7 +849,7 @@
   "rushAtt": "2",
   "rushYards": "6",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "10",
   "displayName": "Matt Barkley",
   "team": "BUF"
@@ -864,7 +864,7 @@
   "rushAtt": "3",
   "rushYards": "4",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "10",
   "displayName": "Geno Smith",
   "team": "SEA"
@@ -879,7 +879,7 @@
   "rushAtt": "2",
   "rushYards": "2",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "10",
   "displayName": "Nick Mullens",
   "team": "SF"
@@ -894,7 +894,7 @@
   "rushAtt": "2",
   "rushYards": "17",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "10",
   "displayName": "Jeff Driskel",
   "team": "DEN"
@@ -909,7 +909,7 @@
   "rushAtt": "2",
   "rushYards": "8",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "10",
   "displayName": "Chase Daniel",
   "team": "DET"
@@ -924,7 +924,7 @@
   "rushAtt": "2",
   "rushYards": "11",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "10",
   "displayName": "Ryan Finley",
   "team": "CIN"
@@ -939,7 +939,7 @@
   "rushAtt": "1",
   "rushYards": "7",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "10",
   "displayName": "Colt McCoy",
   "team": "NYG"
@@ -954,7 +954,7 @@
   "rushAtt": "1",
   "rushYards": "6",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "9",
   "displayName": "AJ McCarron",
   "team": "HOU"
@@ -969,7 +969,7 @@
   "rushAtt": "1",
   "rushYards": "6",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "9",
   "displayName": "Logan Woodside",
   "team": "TEN"
@@ -984,7 +984,7 @@
   "rushAtt": "3",
   "rushYards": "5",
   "rushTD": "0",
-  "fumbles": "1",
+  "position": "QB",
   "fantasyPoints": "9",
   "displayName": "Mike Glennon",
   "team": "JAC"
@@ -999,7 +999,7 @@
   "rushAtt": "3",
   "rushYards": "12",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "8",
   "displayName": "David Blough",
   "team": "DET"
@@ -1014,7 +1014,7 @@
   "rushAtt": "1",
   "rushYards": "4",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "8",
   "displayName": "Jake Fromm",
   "team": "BUF"
@@ -1029,7 +1029,7 @@
   "rushAtt": "2",
   "rushYards": "3",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "8",
   "displayName": "Sean Mannion",
   "team": "MIN"
@@ -1044,7 +1044,7 @@
   "rushAtt": "1",
   "rushYards": "4",
   "rushTD": "0",
-  "fumbles": "1",
+  "position": "QB",
   "fantasyPoints": "7",
   "displayName": "Will Grier",
   "team": "CAR"
@@ -1059,7 +1059,7 @@
   "rushAtt": "3",
   "rushYards": "10",
   "rushTD": "0",
-  "fumbles": "1",
+  "position": "QB",
   "fantasyPoints": "6",
   "displayName": "Josh Rosen",
   "team": "MIA"
@@ -1074,7 +1074,7 @@
   "rushAtt": "0",
   "rushYards": "1",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "2",
   "displayName": "James Morgan",
   "team": "NYJ"
@@ -1089,7 +1089,7 @@
   "rushAtt": "1",
   "rushYards": "2",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "2",
   "displayName": "Jacob Eason",
   "team": "IND"
@@ -1104,7 +1104,7 @@
   "rushAtt": "0",
   "rushYards": "3",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "1",
   "displayName": "Devlin Hodges",
   "team": "PIT"
@@ -1119,7 +1119,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "1",
   "displayName": "Brian Hoyer",
   "team": "NE"
@@ -1134,7 +1134,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Matt Moore",
   "team": "KC"
@@ -1149,7 +1149,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Tommy Stevens",
   "team": "NO"
@@ -1164,7 +1164,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Cole McDonald",
   "team": "TEN"
@@ -1179,7 +1179,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Brett Rypien",
   "team": "DEN"
@@ -1194,7 +1194,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Jake Luton",
   "team": "JAC"
@@ -1209,7 +1209,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Drew Anderson",
   "team": "ARI"
@@ -1224,7 +1224,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Nate Stanley",
   "team": "MIN"
@@ -1239,7 +1239,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Jacob Dolegala",
   "team": "CIN"
@@ -1254,7 +1254,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Anthony Gordon",
   "team": "SEA"
@@ -1269,7 +1269,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Steven Montez",
   "team": "WAS"
@@ -1284,7 +1284,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Jordan Ta'amu",
   "team": "KC"
@@ -1299,7 +1299,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Ben DiNucci",
   "team": "DAL"
@@ -1314,7 +1314,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Bryce Perkins",
   "team": "LAR"
@@ -1329,7 +1329,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Trace McSorley",
   "team": "BAL"
@@ -1344,7 +1344,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Ryan Griffin",
   "team": "TB"
@@ -1359,7 +1359,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Garrett Gilbert",
   "team": "CLE"
@@ -1374,7 +1374,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Cooper Rush",
   "team": "NYG"
@@ -1389,7 +1389,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "David Fales",
   "team": "NYJ"
@@ -1404,7 +1404,7 @@
   "rushAtt": "0",
   "rushYards": "1",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "C.J. Beathard",
   "team": "SF"
@@ -1419,7 +1419,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Paxton Lynch",
   "team": "PIT"
@@ -1434,7 +1434,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Chad Kelly",
   "team": "IND"
@@ -1449,7 +1449,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Davis Webb",
   "team": "BUF"
@@ -1464,7 +1464,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Nathan Peterman",
   "team": "LV"
@@ -1479,7 +1479,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Tyler Bray",
   "team": "CHI"
@@ -1494,7 +1494,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Danny Etling",
   "team": "ATL"
@@ -1509,7 +1509,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Easton Stick",
   "team": "LAC"
@@ -1524,7 +1524,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Nate Sudfeld",
   "team": "PHI"
@@ -1539,7 +1539,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Clayton Thorson",
   "team": "DAL"
@@ -1554,7 +1554,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Alex Tanney",
   "team": "NYG"
@@ -1569,7 +1569,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Kurt Benkert",
   "team": "ATL"
@@ -1584,7 +1584,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Tim Boyle",
   "team": "GB"
@@ -1599,7 +1599,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Alex McGough",
   "team": "HOU"
@@ -1614,7 +1614,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Kyle Lauletta",
   "team": "PHI"
@@ -1629,7 +1629,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Mike White",
   "team": "NYJ"
@@ -1644,7 +1644,7 @@
   "rushAtt": "0",
   "rushYards": "0",
   "rushTD": "0",
-  "fumbles": "0",
+  "position": "QB",
   "fantasyPoints": "0",
   "displayName": "Brandon Allen",
   "team": "CIN"

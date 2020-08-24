@@ -5,7 +5,7 @@ const WRSchema = new mongoose.Schema({
   rushAtt: { type: String },
   rushYards: { type: String },
   rushTD: { type: String },
-  fumbles: { type: String },
+  position: { type: String },
   rec: {type:String},
   recYards: {type:String},
   recTD: {type:String},
