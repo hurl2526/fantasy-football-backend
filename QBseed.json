@@ -1,6 +1,6 @@
 [
   {
-  "playerId": "1",
+  "playerId": "20",
   "completions": "315",
   "attempts": "485",
   "passingYards": "3634",
@@ -15,7 +15,7 @@
   "team": "BAL"
   },
   {
-  "playerId": "2",
+  "playerId": "25",
   "completions": "375",
   "attempts": "573",
   "passingYards": "4774",
@@ -30,7 +30,7 @@
   "team": "KC"
   },
   {
-  "playerId": "3",
+  "playerId": "29",
   "completions": "379",
   "attempts": "576",
   "passingYards": "4654",
@@ -45,7 +45,7 @@
   "team": "DAL"
   },
   {
-  "playerId": "4",
+  "playerId": "37",
   "completions": "357",
   "attempts": "534",
   "passingYards": "4141",
@@ -60,7 +60,7 @@
   "team": "HOU"
   },
   {
-  "playerId": "5",
+  "playerId": "39",
   "completions": "362",
   "attempts": "556",
   "passingYards": "4023",
@@ -75,7 +75,7 @@
   "team": "ARI"
   },
   {
-  "playerId": "6",
+  "playerId": "40",
   "completions": "311",
   "attempts": "526",
   "passingYards": "3595",
@@ -90,7 +90,7 @@
   "team": "BUF"
   },
   {
-  "playerId": "7",
+  "playerId": "49",
   "completions": "330",
   "attempts": "505",
   "passingYards": "4034",
@@ -105,7 +105,7 @@
   "team": "SEA"
   },
   {
-  "playerId": "8",
+  "playerId": "58",
   "completions": "409",
   "attempts": "612",
   "passingYards": "4625",
@@ -120,7 +120,7 @@
   "team": "ATL"
   },
   {
-  "playerId": "9",
+  "playerId": "59",
   "completions": "364",
   "attempts": "580",
   "passingYards": "4579",
@@ -135,7 +135,7 @@
   "team": "TB"
   },
   {
-  "playerId": "10",
+  "playerId": "60",
   "completions": "393",
   "attempts": "543",
   "passingYards": "4257",
@@ -150,7 +150,7 @@
   "team": "NO"
   },
   {
-  "playerId": "11",
+  "playerId": "61",
   "completions": "376",
   "attempts": "574",
   "passingYards": "4060",
@@ -165,7 +165,7 @@
   "team": "PHI"
   },
   {
-  "playerId": "12",
+  "playerId": "62",
   "completions": "343",
   "attempts": "550",
   "passingYards": "3973",
@@ -180,7 +180,7 @@
   "team": "GB"
   },
   {
-  "playerId": "13",
+  "playerId": "63",
   "completions": "356",
   "attempts": "571",
   "passingYards": "3805",
@@ -195,7 +195,7 @@
   "team": "NYG"
   },
   {
-  "playerId": "14",
+  "playerId": "64",
   "completions": "318",
   "attempts": "515",
   "passingYards": "3984",
@@ -210,7 +210,7 @@
   "team": "CLE"
   },
   {
-  "playerId": "15",
+  "playerId": "65",
   "completions": "360",
   "attempts": "558",
   "passingYards": "4276",
@@ -225,7 +225,7 @@
   "team": "DET"
   },
   {
-  "playerId": "16",
+  "playerId": "66",
   "completions": "316",
   "attempts": "477",
   "passingYards": "3926",
@@ -240,7 +240,7 @@
   "team": "TEN"
   },
   {
-  "playerId": "17",
+  "playerId": "67",
   "completions": "369",
   "attempts": "589",
   "passingYards": "4151",
@@ -255,7 +255,7 @@
   "team": "CIN"
   },
   {
-  "playerId": "18",
+  "playerId": "68",
   "completions": "373",
   "attempts": "586",
   "passingYards": "4479",
@@ -270,7 +270,7 @@
   "team": "LAR"
   },
   {
-  "playerId": "19",
+  "playerId": "69",
   "completions": "364",
   "attempts": "542",
   "passingYards": "4095",
@@ -285,7 +285,7 @@
   "team": "MIN"
   },
   {
-  "playerId": "20",
+  "playerId": "70",
   "completions": "316",
   "attempts": "492",
   "passingYards": "3440",

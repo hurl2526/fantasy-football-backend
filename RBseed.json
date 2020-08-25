@@ -1,6 +1,6 @@
 [
   {
-  "playerId": "3379",
+  "playerId": "5",
   "rushAtt": "254",
   "rushYards": "1135",
   "rushTD": "8",
@@ -13,7 +13,7 @@
   "team": "CAR"
   },
   {
-  "playerId": "3037",
+  "playerId": "8",
   "rushAtt": "285",
   "rushYards": "1244",
   "rushTD": "10",
@@ -26,7 +26,7 @@
   "team": "DAL"
   },
   {
-  "playerId": "3582",
+  "playerId": "9",
   "rushAtt": "268",
   "rushYards": "1200",
   "rushTD": "8",
@@ -39,7 +39,7 @@
   "team": "NYG"
   },
   {
-  "playerId": "3112",
+  "playerId": "12",
   "rushAtt": "292",
   "rushYards": "1419",
   "rushTD": "12",
@@ -52,7 +52,7 @@
   "team": "TEN"
   },
   {
-  "playerId": "3354",
+  "playerId": "15",
   "rushAtt": "247",
   "rushYards": "1089",
   "rushTD": "10",
@@ -65,7 +65,7 @@
   "team": "MIN"
   },
   {
-  "playerId": "3384",
+  "playerId": "16",
   "rushAtt": "197",
   "rushYards": "892",
   "rushTD": "8",
@@ -78,7 +78,7 @@
   "team": "NO"
   },
   {
-  "playerId": "3600",
+  "playerId": "22",
   "rushAtt": "270",
   "rushYards": "1302",
   "rushTD": "9",
@@ -91,7 +91,7 @@
   "team": "CLE"
   },
   {
-  "playerId": "3329",
+  "playerId": "29",
   "rushAtt": "266",
   "rushYards": "1149",
   "rushTD": "8",
@@ -104,7 +104,7 @@
   "team": "CIN"
   },
   {
-  "playerId": "3889",
+  "playerId": "30",
   "rushAtt": "265",
   "rushYards": "1202",
   "rushTD": "9",
@@ -117,7 +117,7 @@
   "team": "LV"
   },
   {
-  "playerId": "4133",
+  "playerId": "33",
   "rushAtt": "193",
   "rushYards": "850",
   "rushTD": "9",
@@ -130,7 +130,7 @@
   "team": "KC"
   },
   {
-  "playerId": "3349",
+  "playerId": "35",
   "rushAtt": "202",
   "rushYards": "898",
   "rushTD": "10",
@@ -143,7 +143,7 @@
   "team": "GB"
   },
   {
-  "playerId": "3026",
+  "playerId": "36",
   "rushAtt": "202",
   "rushYards": "910",
   "rushTD": "9",
@@ -156,7 +156,7 @@
   "team": "ARI"
   },
   {
-  "playerId": "3871",
+  "playerId": "38",
   "rushAtt": "224",
   "rushYards": "1003",
   "rushTD": "6",
@@ -169,7 +169,7 @@
   "team": "PHI"
   },
   {
-  "playerId": "3326",
+  "playerId": "39",
   "rushAtt": "242",
   "rushYards": "1053",
   "rushTD": "8",
@@ -182,7 +182,7 @@
   "team": "SEA"
   },
   {
-  "playerId": "3392",
+  "playerId": "43",
   "rushAtt": "160",
   "rushYards": "694",
   "rushTD": "4",
@@ -195,7 +195,7 @@
   "team": "LAC"
   },
   {
-  "playerId": "2760",
+  "playerId": "46",
   "rushAtt": "225",
   "rushYards": "881",
   "rushTD": "6",
@@ -208,7 +208,7 @@
   "team": "HOU"
   },
   {
-  "playerId": "2771",
+  "playerId": "47",
   "rushAtt": "207",
   "rushYards": "826",
   "rushTD": "7",
