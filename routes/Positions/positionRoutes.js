@@ -1,10 +1,5 @@
 const express = require('express');
 const router = express.Router();
-// const Rankings = require('./models/Rankings')
-// const QB = require('./models/QB')
-// const RB = require('./models/RB')
-// const WR = require('./models/WR')
-// const TE = require('./models/TE')
 const positionController = require('./controllers/positionController');
 
 router.get('/Rankings', positionController.rankings);
